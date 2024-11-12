@@ -1,0 +1,4 @@
+Consigna: 
+1. Armar repositorio en GitHub
+2. Hacer otra capeta en computadora
+3. Subir cambio 
